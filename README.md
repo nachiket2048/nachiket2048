@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Nachiket Markale</h1>
 <h3 align="center">Undergrad Student | Tech enthusiast | Pune</h3>
 
-- 🌱 I’m currently learning **C++, Blender**
+- 🎓 I'm currently pursuing my First Year Bachelor of Engineering in Electronics and Telecommunication 
+at Dr. D.Y. Patil Institute of Engineering, Management and Research
 
 - 📫 How to reach me **nachiketmarkale10@gmail.com**
 
