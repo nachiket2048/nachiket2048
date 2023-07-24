@@ -1,3 +1,5 @@
+![logo](https://github.com/nachiket2048/nachiket2048/blob/main/bannergithub1.jpeg)
+
 <h1 align="center">Hi 👋, I'm Nachiket Markale</h1>
 <h3 align="center">Undergrad Student | Tech enthusiast | Pune</h3>
 
