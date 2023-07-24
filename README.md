@@ -1,18 +1,17 @@
 ![logo](https://github.com/nachiket2048/nachiket2048/blob/main/bannergithub1.jpeg)
 
+<img align="right" alt="coding" width="400" src = "https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
+
 <h1 align="center">Hi 👋, I'm Nachiket Markale</h1>
 <h3 align="center">Undergrad Student | Tech enthusiast | Pune</h3>
 
-<img align="right" alt="coding" width="400" src = "https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
-
-- 🌱 I’m currently pursuing my First Year Bachelor of Engineering in Electronics and Telecommunication 
-at Dr. D.Y. Patil Institute of Engineering, Management and Research
+- 🌱 I’m currently learning **C++, Blender**
 
 - 📫 How to reach me **nachiketmarkale10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nachiket-markale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nachiket-markale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nachiket-markale-2695ab257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nachiket-markale-2695ab257" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
