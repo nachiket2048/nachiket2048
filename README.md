@@ -3,7 +3,8 @@
 
 <img align="right" alt="coding" width="400" src = "https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
 
-- 🌱 I’m currently learning **C++, Blender**
+- 🌱 I’m currently pursuing my First Year Bachelor of Engineering in Electronics and Telecommunication 
+at Dr. D.Y. Patil Institute of Engineering, Management and Research
 
 - 📫 How to reach me **nachiketmarkale10@gmail.com**
 
