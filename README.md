@@ -1,6 +1,6 @@
 ![logo](https://github.com/nachiket2048/nachiket2048/blob/main/bannergithub1.jpeg)
 
-<img align="right" alt="coding" width="400" src = "https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
+<!--<img align="right" alt="coding" width="400" src = "https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"> -->
 
 <h1 align="center">Hi 👋, I'm Nachiket Markale</h1>
 <h3 align="center">Undergrad Student | Tech enthusiast | Pune</h3>
