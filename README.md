@@ -9,7 +9,7 @@
 - 🎓 I'm currently pursuing my Third Year Bachelor of Engineering in Electronics and Telecommunication 
 at Dr. D.Y. Patil Institute of Engineering, Management and Research
 
-- 🌱 Learning **Spring Boot, Angular etc**
+- 🌱 Learning **Spring Boot, Angularjs**
 
 - 📫 How to reach me **nachiketmarkale10@gmail.com**
 
